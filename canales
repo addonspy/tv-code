@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+	<name>[COLOR=red][B]PINCHAR AQUI[/B][/COLOR] [COLOR=red] [B] FUTBOLEROS [/B][/COLOR]</name>
+<thumbnail>https://2.bp.blogspot.com/-D56N5dgMPDA/V5kCxbSDNfI/AAAAAAAAACo/xWKfu19SoN4fbokEU62A4xLtrNwHY0mGACLcB/s320/ICON.jpg</thumbnail>
+<fanart>http://enlasgradas.com/wp-content/uploads/2016/04/futbol.jpg</fanart>
+
+<item>
+<title>FOXSPORTS</title>
+<link>http://onetvgratis.com/ver/canal/89/ver-canal-fox-sports-en-vivo-gratis.html</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>FOXSPORTS 2</title>
+<link>http://onetvgratis.com/ver/canal/90/ver-canal-fox-sports-2-en-vivo-gratis.html</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN</title>
+<link>http://onetvgratis.com/ver/canal/7/ver-canal-espn-en-vivo-gratis.html</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN 2</title>
+<link>http://onetvgratis.com/ver/canal/91/ver-canal-espn-2-en-vivo-gratis.html</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ESPN 3</title>
+<link>http://onetvgratis.com/ver/canal/88/ver-canal-espn-3-en-vivo-gratis.html</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PRUEBA (win sports)</title>
+<link>http://onetvgratis.com/ver/canal/119/ver-canal-winsports-en-vivo-gratis.html</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PRUEBA off</title>
+<link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>PRUEBA off</title>
+<link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PRUEBA off</title>
+<link>http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+</channel>
+
+</channels>
