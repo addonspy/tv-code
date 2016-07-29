@@ -9,13 +9,13 @@
 
 <item>
 <title>FOXSPORTS</title>
-<link>http://onetvgratis.com/ver/canal/89/ver-canal-fox-sports-en-vivo-gratis.html</link>
+<link>http://online.pxstream.tv:1935/loadbalance/slv7/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FOXSPORTS 2</title>
-<link>http://onetvgratis.com/ver/canal/90/ver-canal-fox-sports-2-en-vivo-gratis.html</link>
+<link>http://online.pxstream.tv:1935/loadbalance/slv6/playlist.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 <item>
