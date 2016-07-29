@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+<channel>
+<name>[COLOR=blue][B]            --   MENU PRINCIPAL FUTBOLEROS    --    [/B] [/COLOR] </name>
+<thumbnail>http://.COM</thumbnail>
+<fanart></fanart>
+<info>[B]SERVICIO DISPONIBLE[/B]</info>
+<link>http://ignoremeI</link>
+<externallink>http://ignoreme</externallink>
+</channel>
+
+</channel>
+
+<channels>
+
+<channel>
+<name>[COLOR=blue] Email:addonsparaguay@gmail.com [/COLOR] </name>
+<thumbnail>http://.COM</thumbnail>
+<fanart></fanart>
+<info>[B]SERVICIO DISPONIBLE[/B]</info>
+<link>http://ignoreme</link>
+<externallink>http://ignoreme</externallink>
+</channel>
+
+
+<channel>
+<name>[COLOR=white][B]FUTBOLEROS:  [/B][/COLOR] [COLOR=red] [B] Canales de Deportes[/B][/COLOR]</name>
+<thumbnail>https://2.bp.blogspot.com/-D56N5dgMPDA/V5kCxbSDNfI/AAAAAAAAACo/xWKfu19SoN4fbokEU62A4xLtrNwHY0mGACLcB/s320/ICON.jpg</thumbnail>
+<fanart>https://saykmetal.files.wordpress.com/2015/01/jugadores-de-futbol-soccer-practicando-en-el-estadio-fotball-sports.jpg</fanart>
+<info>menu canal</info>
+<link>ignoreme</link>
+<externallink>https://raw.githubusercontent.com/addonspy/tv-code/master/canales</externallink>    
+</channel>
+
+<channel>
+<name>[COLOR=white][B]FUTBOLEROS  [/B][/COLOR] [COLOR=red] [B] Proximamente[/B][/COLOR]</name>
+<thumbnail>https://s31.postimg.org/mq0kfmrgr/ICON2.jpg</thumbnail>
+<fanart>https://saykmetal.files.wordpress.com/2015/01/jugadores-de-futbol-soccer-practicando-en-el-estadio-fotball-sports.jpg</fanart>
+<info>menu canal</info>
+<link>ignoreme</link>
+<externallink></externallink>    
+</channel>
